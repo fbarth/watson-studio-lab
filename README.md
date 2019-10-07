@@ -16,17 +16,23 @@ trabalharem de forma integrada;
 
 O escopo deste laboratório é:
 
-* Criação de um classificador de textos utilizando o Natural Language Classifier;
+* Criação de um classificador de textos utilizando o Natural Language Classifier:
+  * Arquivos sobre Cervejas.
+  * [https://cloud.ibm.com/apidocs/natural-language-classifier?code=python](https://cloud.ibm.com/apidocs/natural-language-classifier?code=python).
 
-* Criação de um classificador de imagens utilizando o Visual Recognition; 
+* Criação de um classificador de imagens utilizando o Visual Recognition:
+  * Arquivos sobre Portas de Carros.
 
-* Análise descritiva usando as ferramentas do Watson Studio;
+* Análise descritiva usando as ferramentas do Watson Studio:
+  * Arquivo sobre microdados do ENEM de 2015
+  * Analise Dados ENEM 2015.ipynb
 
-* Criação de um modelo preditivo usando Notebooks;
+* Criação de um modelo preditivo usando Notebooks:
+  * Arquivo sobre Imóveis da Cidade de São Paulo
+  * Vários notebooks
 
-* Deploy do modelo preditivo usando Watson Machine Learning;
-
-* Uso dos modelos preditivos.
+* Construção e Deploy do modelo preditivo usando AutoAI:
+  * Arquivo sobre Imóveis da Cidade de São Paulo
 
 ## Como utilizar o Watson Studio
 
