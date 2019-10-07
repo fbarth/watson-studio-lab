@@ -2,7 +2,7 @@ import json
 from ibm_watson import NaturalLanguageClassifierV1
 
 natural_language_classifier = NaturalLanguageClassifierV1(
-    iam_apikey='akM7V1ISmAWD_JbOWeBFgfOvgCtBX6H6g9FfM4dTf4Vb',
+    iam_apikey='{iam-apikey}',
     url='https://gateway.watsonplatform.net/natural-language-classifier/api')
 
 classes = natural_language_classifier.classify(
@@ -10,5 +10,3 @@ classes = natural_language_classifier.classify(
     'história muito legal sobre a cerveja').get_result()
 print(classes['top_class'])
 
-#import pandas as pd
-#test = pd.read_csv('data/test_cerveja.csv', header=None)
