@@ -1,3 +1,13 @@
+# Treinamento introdutório sobre Aprendizagem de Máquina
+
+O escopo deste treinamento é discutir os assuntos:
+
+* [Aprendizagem de Máquina]();
+* [Processo de Descoberta de Conhecimento](), e;
+* [Desenvolvimento de Modelos Preditivos]().
+
+E exercitar o desenvolvimento de modelos preditivos usando a ferramenta Watson Studio. 
+
 # Laboratório sobre Watson Studio
 
 O objetivo deste projeto é manter todos os artefatos necessários para a execução de 
