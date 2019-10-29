@@ -2,9 +2,9 @@
 
 O escopo deste treinamento é discutir os assuntos:
 
-* [Aprendizagem de Máquina]();
-* [Processo de Descoberta de Conhecimento](), e;
-* [Desenvolvimento de Modelos Preditivos]().
+* [Aprendizagem de Máquina](https://github.com/fbarth/watson-studio-lab/blob/master/slides/Aula01-aprendizagemMaquina/aIntroducao.pdf);
+* [Processo de Descoberta de Conhecimento](https://github.com/fbarth/watson-studio-lab/blob/master/slides/Aula02-processo-kdd/bigDataCienciaDadosKDD.pdf), e;
+* [Desenvolvimento de Modelos Preditivos](https://github.com/fbarth/watson-studio-lab/blob/master/slides/Aula03-design/projetoEvalidacao.pdf).
 
 E exercitar o desenvolvimento de modelos preditivos usando a ferramenta Watson Studio. 
 
