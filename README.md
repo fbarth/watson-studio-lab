@@ -26,24 +26,28 @@ trabalharem de forma integrada;
 
 O escopo deste laboratório é:
 
-* Criação de um classificador de textos utilizando o Natural Language Classifier:
-  * Arquivos sobre Cervejas.
-  * [https://cloud.ibm.com/apidocs/natural-language-classifier?code=python](https://cloud.ibm.com/apidocs/natural-language-classifier?code=python).
-  * [Script para validação do classificador de textos]().
+* Atividades principais: 
 
-* Criação de um classificador de imagens utilizando o Visual Recognition:
-  * Arquivos modelos de carros.
+  * Criação de um modelo preditivo usando Notebooks:
+    * Arquivo sobre Imóveis da Cidade de São Paulo
+    * [Script para criação de um modelo preditivo](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/f923fbba-57e4-4b97-b413-ac741db1d230/view?access_token=fdacc9b3aa4a05d9664c0c02e0174357f5465f28889e35eaa3d93acdd1c95490).
 
-* Análise descritiva usando as ferramentas do Watson Studio:
-  * Arquivo sobre microdados do ENEM de 2015
-  * Analise Dados ENEM 2015.ipynb
+  * Criação de um classificador de textos utilizando o Natural Language Classifier:
+    * Arquivos sobre Cervejas.
+    * [https://cloud.ibm.com/apidocs/natural-language-classifier?code=python](https://cloud.ibm.com/apidocs/natural-language-classifier?code=python).
+    * [Script para validação do classificador de textos]().
 
-* Criação de um modelo preditivo usando Notebooks:
-  * Arquivo sobre Imóveis da Cidade de São Paulo
-  * [Script para criação de um modelo preditivo](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/f923fbba-57e4-4b97-b413-ac741db1d230/view?access_token=fdacc9b3aa4a05d9664c0c02e0174357f5465f28889e35eaa3d93acdd1c95490).
+* Atividades opcionais:
 
-* Construção e Deploy do modelo preditivo usando AutoAI:
-  * Arquivo sobre Imóveis da Cidade de São Paulo
+  * Criação de um classificador de imagens utilizando o Visual Recognition:
+    * Arquivos modelos de carros.
+
+  * Análise descritiva usando as ferramentas do Watson Studio:
+    * Arquivo sobre microdados do ENEM de 2015
+    * Analise Dados ENEM 2015.ipynb
+
+  * Construção e Deploy do modelo preditivo usando AutoAI:
+    * Arquivo sobre Imóveis da Cidade de São Paulo
 
 ## Como utilizar o Watson Studio
 
