@@ -1,6 +1,6 @@
 # Abstract
 
-This project is a guide for a training session about [Watson Studio](https://www.ibm.com/cloud/watson-studio). In this training session the students will create a regression model, a text classifier, an image classifier, and they will see how an Auto Machine Learning tool works.
+This project is a guide for a training session about [Watson Studio](https://www.ibm.com/cloud/watson-studio). In this training session the students will create a regression model, a text classifier, an image classifier, and they will understand how an Auto Machine Learning tool works.
 
 # Treinamento introdutório sobre Aprendizagem de Máquina
 
